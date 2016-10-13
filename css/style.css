@@ -17,6 +17,10 @@ body {
     margin-top: 20px;
 }
 
+.img-logo {
+    height: 80px;
+}
+
 .title-super {
     font-size: 60px;
 }
